@@ -1,1 +1,10 @@
 /* モバイル環境用 */
+@media screen and (max-width: 640px) {
+
+img{
+  max-width: 100%;
+  height: auto;
+  width :auto;
+}
+
+}
