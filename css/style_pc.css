@@ -5,4 +5,12 @@
   display: inline;
 }
 
+body {
+  background-color: gray;
+}
+
+.main{
+  width: 80%;
+}
+
 }
