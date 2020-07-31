@@ -9,8 +9,13 @@ body {
   background-color: gray;
 }
 
+.container {
+  text-align: center;
+}
+
 .main{
   width: 80%;
+  background-color: white;
 }
 
 }
