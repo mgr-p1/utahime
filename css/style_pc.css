@@ -10,11 +10,11 @@ body {
 }
 
 .container {
-  text-align: center;
+  margin: o auto;
 }
 
 .main{
-  width: 80%;
+  width: 60%;
   background-color: white;
 }
 
