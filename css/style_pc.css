@@ -6,11 +6,11 @@
 }
 
 body {
-  background-color: gray;
+  background-color: #eee;
 }
 
 .container {
-  margin: o auto;
+  margin: 0 auto;
 }
 
 .main{
