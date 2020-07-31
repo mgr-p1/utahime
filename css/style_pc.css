@@ -1,5 +1,8 @@
 /* PC用 */
 @media print, screen and (min-width: 640px) {
 
+.ex-skill {
+  display: inline;
+}
 
 }
